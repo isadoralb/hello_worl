@@ -1,10 +1,10 @@
 # hello_worl
 Repositório para aula de **Git** e **Github**
 
-## Teste em markdown
+## Objetivos
 
-Este é um parágrafo. __Itálico__
-
-Este é outro parágrafo. 
-
-Isto é outro parágrafo
+* Aprender a clonar repositório;
+* Aprender a colocar os arquivos para trackear;
+* Aprender a fazer o commit;
+* Aprender a baixar as modificações para o github;
+* Aprender a baixar as modificações.
