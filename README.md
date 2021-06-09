@@ -8,3 +8,17 @@ Repositório para aula de **Git** e **Github**
 * Aprender a fazer o commit;
 * Aprender a baixar as modificações para o github;
 * Aprender a baixar as modificações.
+
+## Criar versão de arquivos modificados/incluidos/deletados
+
+Comando para o git monitorar os arqivos para serem versionisados.
+
+```git
+git add .
+```
+
+comando para criar a versão do arquivo **a mensagem entre as aspas deve representar o que foi feito**
+
+```git
+git commit -m "alteração da documentação do repositório"
+```
